@@ -260,11 +260,11 @@ By Chulhee Yun, Suvrit Sra, Ali Jadbabaie
 By Mingyi Hong, Jason D. Lee, Meisam Razaviyayn
 
 2018, Zhang-Aragam-Ravikumar-Xing  
-[DAGs with NO TEARS: Smooth Optimization for Structure Learning](https://arxiv.org/pdf/1803.01422.pdf)
+[DAGs with NO TEARS: Smooth Optimization for Structure Learning](https://arxiv.org/pdf/1803.01422.pdf)  
 By Xun Zheng, Bryon Aragam, Pradeep Ravikumar, Eric P. Xing
 
 2018, Xu-Jin-Yang: NEON  
-[First-order Stochastic Algorithms for Escaping From Saddle Points in Almost Linear Time](https://arxiv.org/abs/1711.01944)
+[First-order Stochastic Algorithms for Escaping From Saddle Points in Almost Linear Time](https://arxiv.org/abs/1711.01944)  
 By Yi Xu, Rong Jin, Tianbao Yang
 
 ## Licenses
