@@ -267,6 +267,11 @@ By Xun Zheng, Bryon Aragam, Pradeep Ravikumar, Eric P. Xing
 [First-order Stochastic Algorithms for Escaping From Saddle Points in Almost Linear Time](https://arxiv.org/abs/1711.01944)  
 By Yi Xu, Rong Jin, Tianbao Yang
 
+## 2024
+2024, Sun-Liu-Niu,  
+[Understand the Effectiveness of Shortcuts through the Lens of DCA](https://arxiv.org/abs/2412.09853)  
+By Youran Sun, Yihua Liu, Yi-Shuai Niu
+
 ## Licenses
 
 License
